@@ -1,5 +1,9 @@
 ** start of main.py **
 
+
+# In this project I created, modified, deleted and displayed information from a dictioary.
+# 
+
 def add_setting(dictionary, key_value):
     key = key_value[0].lower()
     value = key_value[1].lower()
